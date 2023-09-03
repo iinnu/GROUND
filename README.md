@@ -31,18 +31,34 @@
 <div id="2"></div>
 
 # 주요 기능
-1. 팔로우 피드
+## ✅ 팔로우 피드
+<img width="600" alt="팔로우 피드" src="https://github.com/iinnu/GROUND/assets/55791128/bc76018c-7912-4af2-832b-8384e829e12a">
+
    - 현재 팔로우를 하고 있는 사용자들의 게시글만 모아볼 수 있는 피드
-2. 최신글 피드
+
+## ✅ 최신글 피드
+<img width="600" alt="최신글 피드" src="https://github.com/iinnu/GROUND/assets/55791128/fe4ad0ac-da5c-4ee9-a003-4ddefc5bfb36" />
+
    - 모든 사용자가 올린 게시글을 볼 수 있는 피드
    - 관심 운동 종목 설정해서 원하는 게시글만 필터링 가능
-3. 검색
+
+## ✅ 검색
+<img width="600" alt="팔로우 피드" src="https://github.com/iinnu/GROUND/assets/55791128/83da1338-9e57-4f37-9b6e-49257a63bdc2" />  
+<img width="600" alt="팔로우 피드" src="https://github.com/iinnu/GROUND/assets/55791128/42f4daab-16f9-4696-84d2-b7ea420a27a7" />
+
    - 유저, 게시글 검색
    - 게시글 검색할 때 날짜, 운동 종목 등의 필터 적용
-4. 나의 운동장
+
+## ✅ 마이 페이지
+<img width="600" alt="마이페이지 - 기본 정보" src="https://github.com/iinnu/GROUND/assets/55791128/548c6ea9-1c05-4307-ab49-1aa002581b6f">  
+<img width="600" alt="마이페이지 - 회원 정보 수정" src="https://github.com/iinnu/GROUND/assets/55791128/561df2e9-3bf8-4426-b0fe-b3dc23f3f6e3">
+
    - 게시글을 올리면 그 날에 대한 운동 기록이 남음
    - 최근 운동 종목, 이 때까지 한 운동에 대한 통계 제공(게시글 카테고리 기준)
-5. 알림
+
+## ✅ 알림
+<img width="600" alt="팔로우 피드" src="https://github.com/iinnu/GROUND/assets/55791128/ace6fa1e-6ca6-405a-ad4b-09c012f77808" />
+
    - 활동 탭에서 나의 게시글에 달린 댓글, 좋아요 등의 알림을 받을 수 있음
    - 계정 탭에서 팔로우 요청, 내가 요청한 팔로우 수락 여부 등을 확인할 수 있음
 
